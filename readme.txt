@@ -1,1 +1,1 @@
-duzk personal
+duzk personal repository
